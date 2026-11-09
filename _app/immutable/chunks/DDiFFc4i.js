@@ -1,0 +1,1 @@
+function e(e){let t=e&&typeof e==`object`&&!Array.isArray(e)?e:{},n=t.nextCursor??t.next_cursor;return{hasMore:(t.hasMore??t.has_more)===!0,nextCursor:typeof n==`string`&&n.trim()||null}}export{e as t};

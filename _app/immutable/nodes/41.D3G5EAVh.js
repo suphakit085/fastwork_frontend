@@ -1,0 +1,1 @@
+import{Ft as e,It as t}from"../chunks/zDHfIp53.js";import"../chunks/xihTtKlq.js";import{t as n}from"../chunks/QOC4DQqS.js";function r(r,i){t(i,!0),n(r,{get profileId(){return i.data.activeProfileId},get items(){return i.data.blocked.items},get page(){return i.data.blocked.page}}),e()}export{r as component};

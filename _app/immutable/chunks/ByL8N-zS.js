@@ -1,0 +1,1 @@
+import{A as e}from"./3e2L75Q7.js";var t=()=>`(optional)`,n=()=>`(ไม่บังคับ)`,r=()=>`(opsional)`,i=((i={},a={})=>{let o=a.locale??e();return o===`en`?t(i):o===`th`?n(i):r(i)});export{i as t};

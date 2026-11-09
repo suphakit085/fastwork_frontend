@@ -1,0 +1,1 @@
+function e(e){return`var(--spacing-${e})`}export{e as t};

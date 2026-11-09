@@ -1,0 +1,1 @@
+import{A as e}from"./3e2L75Q7.js";var t=()=>`You have been logged out. Log in again to pick up where you left off.`,n=()=>`คุณออกจากระบบแล้ว เข้าสู่ระบบอีกครั้งเพื่อดำเนินการต่อ`,r=()=>`Kamu telah keluar. Masuk kembali untuk melanjutkan dari tempat kamu berhenti.`,i=((i={},a={})=>{let o=a.locale??e();return o===`en`?t(i):o===`th`?n(i):r(i)});export{i as t};

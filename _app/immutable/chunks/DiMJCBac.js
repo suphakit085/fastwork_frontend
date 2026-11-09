@@ -1,0 +1,1 @@
+import{r as e}from"./B0CD8v7_.js";var t=!1,n=new Map;function r(r){r.then(()=>{t=!0;for(let[t,r]of n)e({key:t,value:r});n.clear()})}function i(r){if(!t){n.set(r.key,r.value);return}e({key:r.key,value:r.value})}export{i as n,r as t};

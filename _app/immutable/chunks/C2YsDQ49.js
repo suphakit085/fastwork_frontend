@@ -1,0 +1,1 @@
+function e(e){if(!e.user)return null;let t=e.profiles?.find(t=>t.id===e.activeProfileId);return t?{displayName:t.displayName,avatarUrl:t.avatarUrl}:{displayName:e.user.name,avatarUrl:e.user.avatar}}export{e as t};

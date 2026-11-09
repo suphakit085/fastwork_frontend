@@ -1,0 +1,1 @@
+import{A as e}from"./3e2L75Q7.js";var t=()=>`Blocked account`,n=()=>`บัญชีที่บล็อก`,r=()=>`Akun yang diblokir`,i=((i={},a={})=>{let o=a.locale??e();return o===`en`?t(i):o===`th`?n(i):r(i)});export{i as t};

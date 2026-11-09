@@ -1,0 +1,1 @@
+import{A as e}from"./3e2L75Q7.js";var t=()=>`We cannot open this page right now. Please try again.`,n=()=>`เราไม่สามารถเปิดหน้านี้ได้ในขณะนี้ กรุณาลองอีกครั้ง`,r=()=>`Kami tidak dapat membuka halaman ini sekarang. Silakan coba lagi.`,i=((i={},a={})=>{let o=a.locale??e();return o===`en`?t(i):o===`th`?n(i):r(i)});export{i as t};

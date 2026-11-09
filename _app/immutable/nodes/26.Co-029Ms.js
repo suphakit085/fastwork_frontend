@@ -1,0 +1,1 @@
+import"../chunks/zDHfIp53.js";import"../chunks/xihTtKlq.js";import{t as e}from"../chunks/B8h8iU5y.js";import"../chunks/B50mNrMV.js";function t(t){e(t,{hub:`service`})}export{t as component};

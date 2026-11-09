@@ -1,0 +1,1 @@
+import{Ft as e,It as t}from"../chunks/zDHfIp53.js";import"../chunks/xihTtKlq.js";import{t as n}from"../chunks/DHZVyxzx.js";function r(r,i){t(i,!0),n(r,{get profileDestination(){return i.data.profileDestination}}),e()}export{r as component};

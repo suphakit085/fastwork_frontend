@@ -1,0 +1,1 @@
+import{Ft as e,It as t,c as n,ct as r,ht as i,w as a}from"../chunks/zDHfIp53.js";import{c as o,o as s}from"../chunks/DfFzvGUH.js";import"../chunks/xihTtKlq.js";import"../chunks/3e2L75Q7.js";import"../chunks/B50mNrMV.js";function c(c,l){t(l,!1),n(),a(`1li28zx`,e=>{r(e=>{i.title=`${e??``} · fastwork`},[()=>o()])}),s(c,{}),e()}export{c as component};

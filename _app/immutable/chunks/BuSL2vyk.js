@@ -1,0 +1,1 @@
+import"./zDHfIp53.js";import{i as e}from"./BMWcPQLv.js";import"./B59dCcY6.js";import{r as t}from"./4lhAokzI.js";function n(){e(({cancel:e,type:n,willUnload:r,to:i})=>{!t.current||r||!i?.url||(n!==`popstate`&&e(),location.href=i.url.href)})}export{n as t};

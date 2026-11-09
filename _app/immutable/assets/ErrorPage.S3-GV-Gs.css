@@ -1,0 +1,1 @@
+.error-stage.svelte-fgimbz{min-height:100%;padding:clamp(var(--spacing-6), 8vh, var(--spacing-16));flex:1;place-items:center;display:grid}.error-illustration.svelte-fgimbz{width:clamp(140px,18vw,180px);height:auto;display:block}@media (width<=860px){.error-stage.svelte-fgimbz{padding:var(--spacing-6) var(--spacing-4)}.error-illustration.svelte-fgimbz{width:min(36vw,140px)}}

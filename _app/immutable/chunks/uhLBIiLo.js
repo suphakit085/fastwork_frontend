@@ -1,0 +1,1 @@
+var e=[`posts`,`services`,`reviews`,`about`];function t(t){return e.some(e=>e===t)}function n(e){return e&&t(e)?e:`posts`}function r(e){return e&&t(e)?e:null}export{r as i,t as n,n as r,e as t};

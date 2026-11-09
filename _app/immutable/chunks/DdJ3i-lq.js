@@ -1,0 +1,1 @@
+var e=`[a-z0-9_.]`,t=RegExp(`^${e}*$`),n=RegExp(`^${e}{3,15}$`);function r(e){return n.test(e)}function i(e){return t.test(e)?r(e)?null:`length`:`characters`}export{i as n,r as t};

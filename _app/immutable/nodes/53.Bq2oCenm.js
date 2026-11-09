@@ -1,0 +1,1 @@
+import{G as e,U as t,ht as n,lt as r,w as i}from"../chunks/zDHfIp53.js";import"../chunks/xihTtKlq.js";import"../chunks/B50mNrMV.js";var a=e(`<div class="full-bleed svelte-15cy65w"><span>Blank layout - the page owns the full window.</span></div>`);function o(e){var o=a();i(`15cy65w`,e=>{r(()=>{n.title=`Blank · fastwork`})}),t(e,o)}export{o as component};
